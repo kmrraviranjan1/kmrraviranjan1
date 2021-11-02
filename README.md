@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kmrraviranjan1&label=Profile%20views&color=0e75b6&style=flat" alt="kmrraviranjan1" /> </p>
 
-- 🔭 I’m currently working on [myInterviewer](https://github.com/kmrraviranjan1/myInterviewer)
+- 🔭 I’m currently working on [mykart](https://github.com/kmrraviranjan1/mykart)
 
 - 🌱 I’m currently learning **MERN Stack, Data Structure and algorithms**
 
-- 👯 I’m looking to collaborate on **Custom Trading terminal**
+- 👯 I’m looking to collaborate on **Custom Share Market Trading terminal**
 
-- 👨‍💻 All of my projects are available at [https://ravi-kumar-portfolio.netlify.app/](https://ravi-kumar-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://github.com/kmrraviranjan1?tab=repositories/](https://github.com/kmrraviranjan1?tab=repositories)
 
 - 📝 I regularly write articles on [https://raviranjankumar.hashnode.dev/](https://raviranjankumar.hashnode.dev/)
 
