@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kmrraviranjan1&label=Profile%20views&color=0e75b6&style=flat" alt="kmrraviranjan1" /> </p>
 
-- 🔭 I’m currently working on [mykart](https://github.com/kmrraviranjan1/mykart)
+- 🔭 I’m currently working on [reactUI](https://github.com/kmrraviranjan1/reactUI), a reusable react component.
 
 - 🌱 I’m currently learning **MERN Stack, Data Structure and algorithms**
 
@@ -28,7 +28,7 @@
 <a href="https://linkedin.com/in/kmrraviranjan1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kmrraviranjan1" height="30" width="40" /></a>
 <a href="https://medium.com/@kmrraviranjan1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@kmrraviranjan1" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/kmrraviranjan1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kmrraviranjan1" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/kmrraviranjan1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kmrraviranjan1" height="30" width="40" /></a>
+<!-- <a href="https://www.leetcode.com/kmrraviranjan1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kmrraviranjan1" height="30" width="40" /></a> -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -37,7 +37,7 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/kmrraviranjan1"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="kmrraviranjan1" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kmrraviranjan1&show_icons=true&locale=en&layout=compact" alt="kmrraviranjan1" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kmrraviranjan1&show_icons=true&locale=en&layout=compact" alt="kmrraviranjan1" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kmrraviranjan1&show_icons=true&locale=en" alt="kmrraviranjan1" /></p>
 
